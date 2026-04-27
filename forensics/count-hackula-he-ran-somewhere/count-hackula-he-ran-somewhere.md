@@ -141,7 +141,6 @@ This entire challenge is meant to simulate ransomware. I was inspired by the Wan
 
 
 
-\n
 
 
 The main handler in the server-side Cloudflare worker:
